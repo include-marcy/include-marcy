@@ -4,7 +4,6 @@
 - I have experience in ✨Luau✨, C++, C, and other languages. Currently interested in learning about graphics programming, project frameworks, parallel computing, project architecture design, and programming language design!
 - Comp Sci student
 - She/Her
-- 🏳️‍🌈
 ## Authorship
 - Heimdall Framework and API
 - Athena Framework and API
