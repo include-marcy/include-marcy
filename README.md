@@ -6,7 +6,6 @@
 - She/Her
 - 🏳️‍🌈
 ## Authorship
-- Author of the 🌈 Heimdall Framework 🌈 for Roblox experiences, an OSS framework with a lot going on!
-- ETA 2024: Author of the ⚡️Hermes Library ⚡️ for Roblox experiences, a library designed to streamline parallel Luau computing.
-- ETA 2024: Author of the 🦚 Hera  UI Library 🦚 and Hera Transit Editor plugin for Roblox experiences and Roblox Studio, two resources which will aid in creating modern, sleek UX/UI by aiding in both the design and programming of animated graphics and audio components of your interfaces.
-- Author of Sequence, a module designed to help program combat experiences with explicit timing on Roblox.
+- Heimdall Framework and API
+- Athena Framework and API
+- Hera Framework and API
